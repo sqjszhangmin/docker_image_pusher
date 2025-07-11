@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ultralytics/ultralytics
-php:5.3-apache
+php:5.3.29-apache
